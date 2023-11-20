@@ -1,0 +1,1075 @@
+Test Scenario ID	Test scenario Name	Objective	pre-condition	Test Scenario Description
+(TS_001)	Register Functionality	To check the functionality of Registration module	1.Internet must be working	1.1 To check the functionality registration module with valid data
+			2.URL must be working	1.2To check the functionality registration module with invalid data
+			3.Registrartion button must be clickable	1.3 To check the functionality registration module with valid and invalid data
+				1.4 To check the functinality registation module with empty data
+				1.5 To check the functionality of registaration module with mandatory data
+				1.6 To check the functionality of registration module with optional data
+				1.7 To check the functinality of registration module with already register user
+				
+(TS_002)	Login Functinality	To check the functinality of login module	1.Internet must be working	2.1 To check the functinality login module with valid data
+			2.URL must be working	2.2 To check the functinality login module with invalid data
+			3.user must be the register user	2.3 To check the functinality login module with valid and invalid data
+			4.Login button must be clickable	2.4 To check the functinality login module with empty data
+				2.5 To check the functinality login module with forgot your password
+				2.6 To check the functinality login module with signin with facebook
+				2.7 To check the functinality login module with sign up now
+				2.8 To check the functinality of module with back to website
+				
+(TS_003)	Find Blood	To check the functinality of find module	1.Internet must be working	3.1 To check the functinality of find blood module with empty data
+			2.URL must be working	3.2 To check the functinality of find module with only blood group
+			3.find blood must be clickable	3.3 To check the functinality of find module with blood group and state
+				 3.4 To check the functiality of find module with blood group,state and district
+				3.5 To check the functinality of find module with blood group,state,district and tehsil
+				3.6 To check the functinality of find module with blood group,state,district,tehsil and hospital name and address
+				
+(TS_004)	Request Blood	To check the functionalities of  RequestBlood  module.	1. Internet must be working.	4.1 To check the functionalities of request blood module with empty data.
+			 2.URL must be working	4.2 To check the functionalities of  request blood module with valid data.
+			3. Request Blood  button must be clickable.	4.3 To check the functionalities of request blood module with invalid data.
+				 4.4 To check the functionalities of request blood module with valid and invalid data.
+				4.5 To check the functionalities of request blood module with mandatory data.
+				4.6 To check the functionalities of request blood module with optional data.
+				4.7 To check the functionalities of request blood module with scroll icon.
+				
+(TS_005)	Blood Bank	To check the functionalities of Blood Bank module.	1. Internet must be working.	 5.1 To check the functionalities of blood bank module with empty data.
+			2. URL must be working.	5.2 To check the functionalities of blood bank module with only state.
+			3.Blood Bank button must be clickable.	5.3 To check the functionalities of blood bank module with state and district.
+				5.4 To check the functionalities of blood bank module with scroll icon.
+				
+(TS_006)	Blogs	To check the functionalities of Blogs module.	1. Internet must be working.	6.1 To check the functionalities of blogs module  with reetack.
+			2. URL must be working.	6.2 To check the functionalities of blogs module  with visit.
+			3. Blogs button must be clickable.	6.3 To check the functionalities of blogs module  with web solutions company.
+				6.4 To check the functionalities of blogs module  with share.
+				6.5 To check the functionalities of blogs module with by blood bank today.
+				6.6 To check the functionalities of blogs module  with facebook share.
+				6.7 To check the functionalities of blogs module  with whatsapp share.
+				6.8 To check the functionalities of blogs module  with read more.
+				6.9 To check the functionalities of blogs module  with scroll icon.
+				
+(TS_007)	Causes	To check the functionalities of Causes module.	1. Internet must be working.	7.1 To check the functionalities of causes module  with eradicate blood shortage.
+			2. URL must be working.	7.2 To check the functionalities of causes module  with facebook share.
+			3.Causes button must be clickable.	7.3 To check the functionalities of causes module  with whatsapp share.
+				7.4 To check the functionalities of causes module  with donate now.
+				7.5 To check the functionalities of causes module  with more detail.
+				7.6 To check the functionalities of causes module  with visit also.
+				7.7 To check the functionalities of causes module  with scroll icon.
+				
+(TS_008)	Events	To check the functionalities of Events module.	1. Internet must be working.	8.1 To check the functionalities of events module  with  read more.
+			2. URL must be working.	8.2 To check the functionalities of events module  with whatsapp share.
+			3. Events button must be clickable.	8.3 To check the functionalities of events module  with facebook share.
+				8.4 To check the functionalities of events module  with visit also.
+				8.5 To check the functionalities of events module with blood donate by jasvinder singh hanumangarh town.
+				8.6 To check the functionalities of events module with scroll icon.
+				
+(TS_009)	News	To check the functionalities of News module.	1. Internet must be working.	9.1 To check the functionalities of news module  with blood bank today by lakhvinder singh.
+			2. URL must be working.	9.2 To check the functionalities of news module with facebook share.
+			3. News button must be clickable.	9.3 To check the functionalities of news module  with whatsapp share.
+				9.4 To check the functionalities of news module  with visit also.
+				9.5 To check the functionalities of news module  with read more.
+				9.6 To check the functionalities of news module  with scroll icon.
+				
+(TS_010)	Donate Us	To check the functionalities of Donate Us module.	1. Internet must be working.	10.1 To check the functionalities of donate us module with QR code.
+			2. URL must be working.	10.2 To check the functionalities of donate us module with donate us with paytm-upi mobile number.
+			3. Donate Us button must be clickable.	10.3 To check the functionalities of donate us module with select denomination or enter manual amount with valid data.
+			4. User must be registered user.	10.4 To check the functionalities of donate us module with select denomination or enter manual amount with invalid data.
+				10.5 To check the functionalities of donate us module with select denomination or enter manual amount with valid and invalid data.
+				10.6 To check the functionalities of donate us module with select denomination or enter manual amount with mandatory data.
+				10.7 To check the functionalities of donate us module with select denomination or enter manual amount with optional data.
+				10.8 To check the functionalities of donate us module with select denomination or enter manual amount with empty data.
+				10.9 To check the functionalities of donate us module with recent donar join.
+				10.10 To check the functionalities of donate us module with scroll icon.
+				
+(TS_011)	My Message	To check the functionalities of My Message module.	1. Internet must be working.	11.1 To check the functionalities of my message module with send message.
+			2. URL must be working.	11.2 To check the functionalities of my message module with search.
+			3.  User must be registered user.	11.3 To check the functionalities of my message module with my message list.
+			4. User must be login.	
+			5. My Message button must be clickable.	
+				
+				
+(TS_012)	Edit Profile	To check the functionalities of Edit Profile.	1. Internet must be working.	12.1 To check the functionalities of edit profile module with add blood donation report.
+			2. URL must be working.	12.2 To check the functionalities of edit profile module with setting tag.
+			3.  User must be registered user.	12.3 To check the functionalities of edit profile module with copy link.
+			4. User must be login.	12.4 To check the functionalities of edit profile module with facebook share.
+			5. Edit Profile must be clickable.	12.5 To check the functionalities of edit profile module with whatsapp share.
+				12.6 To check the functionalities of edit profile module with account and basic information.
+				12.7 To check the functionalities of edit profile module with address information.
+				12.8 To check the functionalities of edit profile module with contact information.
+				12.9 To check the functionalities of edit profile module with change password.
+TestCase ID	Objectives	Test case Descripition	Pre-Conditions	Test Data	Expected Result	Actual Result	Priority	Remark	Defect
+									
+TS_001_TC_001	To check the functionalities of Registration module.     	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With valid data user should registered	User is able to do registration with valid data but OTP is not working.	Partial Failed	       I)After clicking on submit button, system is asking for OTP for profile verification, which is not working.As per the message user should receive OTP on dashboard.                                                       II) After click on OTP submit button "this is wrong otp plese R-enter"message  is received. There is a spelling error in this message it should be "This is wrong OTP please re-enter".                                                                  III) OTP time out "If.Not Receive OTP Plz Colck On Send OTP Message Again Button" message received.There is a spelling error in this message it should be "If not receive OTP plz click on send OTP message again button".                                          IV)Years from 2002 are missing in year dropdown.	I)Wrong Functional Defect            II)Missing Functional Defect                    III)Non Functional Defect
+		Click on Register module	2. URL must be working.	Click					
+		Enter full name	3. Registration button must be clickable.	ASVITHA					
+		Enter email		asvithabe1011@gmail.com					
+		Enter mobile number 		9360595041					
+		create password		asvi10					
+		Select blood group		B+ve					
+		Select gender		Female					
+		Select DOB		10-06-1996					
+		Enter weight		54					
+		Select last donation data		15-03-2020					
+		Select show mobile		yes					
+		Select SMS alert		yes					
+		Enter pin/zip code		40623					
+		Select state		TamilNadu					
+		Select dist		Dharmapuri					
+		Select tehsil		Pappiredipatti					
+		Enter city/village		Kadathur					
+		check "I accept terms & condition		check					
+		Click on submit button		click					
+		Enter OTP		OTP					
+									
+TS_001_TC_002	To check the functionalities of Registration module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With invalid data user should not registered.	User is able to do registration with invalid data .	Failed 	Failed 	I)Wrong Functional Defect                           II)  Non Functional Defect
+		Click on Register module	2. URL must be working.	click					
+		Enter full name	3. Registration button must be clickable.	ASVITHA A					
+		Enter email		asvithabexx10@gmail.com					
+		Enter mobile number 		987654321					
+		create password		mnbvcxz					
+		Select blood group		O+ve					
+		Select gender		Female					
+		Select DOB		10-11-1996					
+		Enter weight		60					
+		Select last donation data		09-08-2000					
+		Select show mobile		yes					
+		Select SMS alert		yes					
+		Enter pin/zip code		98765					
+		Select state		TamilNadu					
+		Select dist		Dharmapuri					
+		Select tehsil		Dharmapuri					
+		Enter city/village		Dharmapuri					
+		check "I accept terms & condition		check					
+		Click on submit button		click					
+		Enter OTP		OTP					
+									
+TS_001_TC_003	To check the functionalities of Registration module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With valid and invalid data user should not registered.	User is able to do registration with valid and invalid data.	Failed	After fill valid and invalid data, system allowing user to do registration. 	Wrong Functional Defect
+		Click on Register module	2. URL must be working.	click					
+		Enter full name	3. Registration button must be clickable.	ASVITHA A					
+		Enter email		asvithabexx10@gmail.com					
+		Enter mobile number 		987654321					
+		create password		mnbvcxz					
+		Select blood group		O+ve					
+		Select gender		Female					
+		Select DOB		10-11-1996					
+		Enter weight		60					
+		Select last donation data		09-08-2000					
+		Select show mobile		yes					
+		Select SMS alert		yes					
+		Enter pin/zip code		98765					
+		Select state		TamilNadu					
+		Select dist		Dharmapuri					
+		Select tehsil		Dharmapuri					
+		Enter city/village		Dharmapuri					
+		check "I accept terms & condition		check					
+		Click on submit button		click					
+		Enter OTP		OTP					
+									
+TS_001_TC_004	To check the functionalities of Registration module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With empty data user should not registered.	User is  not able to do registration with empty data .	Pass		
+		Click on Register module	2. URL must be working.	Click					
+		Enter full name	3. Registration button must be clickable.						
+		Enter email							
+		Enter mobile number 							
+		create password							
+		Select blood group							
+		Select gender							
+		Select DOB							
+		Enter weight							
+		Select last donation data							
+		Select show mobile							
+		Select SMS alert							
+		Enter pin/zip code							
+		Select state							
+		Select dist							
+		Select tehsil							
+		Enter city/village							
+		check "I accept terms & condition		Check					
+		Click on submit button		CLICK					
+		Enter OTP		OTP					
+									
+TS_001_TC_005	To check the functionalities of Registration module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With mandatory data user should registered.	User is  not able to do registration with mandatory data .	Failed	After fill mandatory data, system does not allow the user to register. 	Wrong Functional Defect
+		Click on Register module	2. URL must be working.	Click					
+		Enter full name	3. Registration button must be clickable.	ASVITHA A					
+		Enter email							
+		Enter mobile number 							
+		create password							
+		Select blood group		B+					
+		Select gender		Female					
+		Select DOB							
+		Enter weight		54					
+		Select last donation data							
+		Select show mobile							
+		Select SMS alert		yes					
+		Enter pin/zip code							
+		Select state							
+		Select dist							
+		Select tehsil							
+		Enter city/village							
+		check "I accept terms & condition		Check					
+		Click on submit button		CLICK					
+		Enter OTP		OTP					
+									
+TS_001_TC_006	To check the functionalities of Registration module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With optional data user should  not registered.	User is able to do registration with optional data.	Failed	After fill optional data ,system allowing user to do registration.	Wrong Functional Defect
+		Click on Register module	2. URL must be working.	Click					
+		Enter full name	3. Registration button must be clickable.						
+		Enter email		asvithabexx10@gmail.com					
+		Enter mobile number 		987654321					
+		create password		mnbvcxz					
+		Select blood group							
+		Select gender							
+		Select DOB		10-11-1996					
+		Enter weight							
+		Select last donation data		09-08-2000					
+		Select show mobile		yes					
+		Select SMS alert							
+		Enter pin/zip code		98765					
+		Select state		Tamilnadu					
+		Select dist		Dharmapuri					
+		Select tehsil		Dharmapuri					
+		Enter city/village		Dharmapuri					
+		check "I accept terms & condition		Check					
+		Click on submit button		CLICK					
+		Enter OTP		OTP					
+									
+TS_001_TC_007	To check the functionalities of Registration module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With already registered user should  not registered again.	User is not able to do registration with already register.	Pass		
+		Click on Register module	2. URL must be working.	Click					
+		Enter full name	3. Registration button must be clickable.	ASVITHA					
+		Enter email		asvithabe1011@gmail.com					
+		Enter mobile number 		9360595041					
+		create password		asvi10					
+		Select blood group		B+ve					
+		Select gender		Female					
+		Select DOB		10-06-1996					
+		Enter weight		54					
+		Select last donation data		15-03-2020					
+		Select show mobile		yes					
+		Select SMS alert		yes					
+		Enter pin/zip code		40623					
+		Select state		TamilNadu					
+		Select dist		Dharmapuri					
+		Select tehsil		Pappiredipatti					
+		Enter city/village		Kadathur					
+		check "I accept terms & condition		check					
+		Click on submit button		click					
+		Enter OTP		OTP					
+									
+TS_002_TC_001	To check the functionalities of Login module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With valid data user should  login.	User is able to do login with valid data.	Pass		
+		Click on login module	2. URL must be working.	Click					
+		Enter email Id 	3. User must be registered user.	asvithabe1011@gmail.com					
+		OR	4.Login button must be clickable.						
+		Enter mobile no		9360595041					
+		Password		asvi10					
+		Click on sign in button		Click					
+									
+TS_O02_TC_002	To check the functionalities of Login module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With invalid data user should not login.	User is not able to do login with invalid data.	Pass		
+		Click on login module	2. URL must be working.	Click					
+		Enter email Id 	3. User must be registered user.	asvi10@gmail.com					
+		OR	4.Login button must be clickable.						
+		Enter mobile no		12345					
+		Password		A1011					
+		Click on sign in button		Click					
+									
+TS_002_TC_003	To check the functionalities of Login module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With valid and invalid data user should not login.	User is not able to do login with valid and invalid data.	Pass		
+		Click on login module	2. URL must be working.	Click					
+		Enter email Id 	3. User must be registered user.	asvi96@gmail.com					
+		OR	4.Login button must be clickable.						
+		Enter mobile no		37648596067578					
+		Password		112233					
+		Click on sign in button		Click					
+									
+TS_002_TC_004	To check the functionalities of Login module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With empty data user should not login.	User is not able to do login with empty data.	Pass		
+		Click on login module	2. URL must be working.	Click					
+		Enter email Id 	3. User must be registered user.						
+		OR	4.Login button must be clickable.						
+		Enter mobile no							
+		Password							
+		Click on sign in button		Click					
+									
+TS_002_TC_005.1	To check the functionalities of login module with forgot your password-Member ID.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With forgot your password user should change new password and login.	User is not able to change new password and login.	Failed	I) In dashboard, ID is not correctly mentioned.It mentioned only "your ID".                                                                         II)Spelling error "Mamber ID" it should be "Member ID".                                                                    III) After clicking on send message, system is asking for OTP for mobile number verify, which is not working.                                                                      IV) After clicking submit button "this is wrong otp plese R-enter" message  is received. There is a spelling error in this message it should be "This is wrong OTP please re-enter".                                        	I)Wrong Functional Defect                                           II) Non  Functional Defect                     
+		Click on login module	2. URL must be working.	Click					
+		Click on forgot your password	3. User must be registered user.	Click					
+		Enter member ID	4.Login button must be clickable.	2309111221507410					
+		Click on Send Message		Click					
+		Click on Send Message		Click					
+		Enter OTP		OTP					
+		Click on Submit button		Click					
+		Enter new password		asvi					
+		Reenter password		asvi					
+		Click on Submit button		Click					
+									
+TS_002_TC_005.2	To check the functionalities of login module with forgot your password- login ID.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With forgot your password user should change new password and login.	User is not able to change new password and login.	Failed	Login ID works like  member ID.This ID is mentioned in " Your ID"	Extra Functional Defect.
+		Click on login module	2. URL must be working.	Click					
+		Click on forgot your password	3. User must be registered user.	Click					
+		Enter login ID	4.Login button must be clickable.	2309111221507410					
+		Click on Send Message		Click					
+		Click on Send Message		Click					
+		Enter OTP		OTP					
+		Click on Submit button		Click					
+		Enter new password		asvi					
+		Reenter password		asvi					
+		Click on Submit button		Click					
+									
+TS_002_TC_005.3	To check the functionalities of login module with forgot your password- Email.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With forgot your password user should change new password and login.	User is not able to change new password and login.	Failed	After clicking on send message two times system asking for OTP for mobile number verification which is not working.	Wrong Functional Defect
+		Click on login module	2. URL must be working.	Click					
+		Click on forgot your password	3. User must be registered user.	Click					
+		Enter Email	4.Login button must be clickable.	krishna@gmail.com					
+		Click on Send Message		Click					
+		Click on Send Message		Click					
+		Enter OTP		OTP					
+		Click on Submit button		Click					
+		Enter new password		asvi					
+		Reenter password		asvi					
+		Click on Submit button		Click					
+									
+TS_002_TC_005.4	To check the functionalities of login module with forgot your password- Mobile.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With forgot your password user should change new password and navigate to dashboard.	User is not able to change new password and login.	Failed	After clicking on send message two times system asking for OTP for mobile number verification which is not working.	Wrong Functional Defect
+		Click on login module	2. URL must be working.	Click					
+		Click on forgot your password	3. User must be registered user.	Click					
+		Enter mobile	4.Login button must be clickable.	6368030083					
+		Click on Send Message		Click					
+		Click on Send Message		Click					
+		Enter OTP		OTP					
+		Click on Submit button		Click					
+		Enter new password		asvi					
+		Reenter password		asvi					
+		Click on Submit button		Click					
+									
+TS_002_TC_006	To check the functionalities of login module with sign in with facebook.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With sign in with facebook user should login.	User is not able to login with sign in with facebook.	Failed	After clicking sign in with facebook its not redirected to facebook login page.	Wrong Functional Defect
+		Click on login module	2. URL must be working.	Click					
+		Click on sign in with facebook	3. User must be registered user.	Click					
+			4.Login button must be clickable.						
+									
+									
+									
+TS_002_TC_007	 To check the functionalities of login module with sign up now.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With sign up now user should navigate to register page.	User is able to  navigate to register page. 	Pass		
+		Click on login module	2. URL must be working.	Click					
+		Click on sign up now	3. User must be registered user.	Click					
+			4.Login button must be clickable.						
+									
+TS_002_TC_008	To check the functionalities of login module with back to website.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With back to website user should navigate to home page.	User is able to navigate to home page.	Pass		
+		Click on login module	2. URL must be working.	Click					
+		Click on back to website	3. User must be registered user.	Click					
+			4.Login button must be clickable.						
+									
+TS_003_TC_001	To check the functionalities of Find Blood module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With empty data user should not find blood 	User is not able to find blood.	Partial failed	I)After clicking on find blood "plz select blood group" popup is misspelled ,it should be "Please select blood group"                                                           II))After clicking on find blood "plz select blood group" popup is wrong.It should be "Please select blood group and state".	Non  Functional Defect      
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.						
+		Select state							
+		Select district							
+		Select all tehsil							
+		Click on find blood							
+									
+TS_O03_TC_002	To check the functionalities of Find Blood module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select only blood group user should not find blood 	User is not able to find blood.	Partial failed	I) After clicking on find blood"plz select city" popup is misspelled, it should be "Please select district".	Non  Functional Defect      
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state							
+		Select district							
+		Select all tehsil							
+		Click on find blood		Click					
+									
+TS_O03_TC_003	To check the functionalities of Find Blood module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select  blood group and state user should not find blood 	User is able to find blood.	Pass		
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district							
+		Select all tehsil							
+		Click on find blood		Click					
+									
+TS_O03_TC_004.1	To check the functionalities of Find Blood module  with whatsapp share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	 With select  blood group, state  and district user should find blood donor and whatsapp share option user should share blood donor on whatsapp.	User is able to share blood donor on whatsapp	Pass		
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil							
+		Click on find blood		Click					
+		Click on whatsapp share		Click					
+									
+TS_O03_TC_004.2	To check the functionalities of Find Blood module with facebook share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	 With select  blood group, state  and district user should find blood donor and facebook share option user should share blood donor on facebook.	User is able to share blood donor on facebook.	Pass		
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+e					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil							
+		Click on find blood		Click					
+		Click on facebook share		Click					
+									
+TS_O03_TC_004.3	To check the functionalities of Find Blood module with visit also.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	 With select  blood group, state  and district user should find blood donor and visit also user should navigate to home page.	User is not able to see any functionality in visit also.	Failed	In visit also didn't have any funcitonalities	Missing Functional Defect 
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil							
+		Click on find blood		Click					
+		Visit also		Click					
+									
+TS_O03_TC_004.4	To check the functionalities of Find Blood module with visit-send sms.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select  blood group, state  and district user should find blood donor and with send sms option user should send sms in blood donor.	User is not able to send sms to blood donor.	Failed	I)After clicking on submit button, system asking for OTP for mobile number verify which is not working.                                                                                     II) After clicking OTP submit button "this is wrong otp plese R-enter"message  is received. There is a spelling error in this message it should be "This is wrong OTP please re-enter".      	I)Wrong Functional Defect                   II)Missing Functional Defect     
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil							
+		Click on find blood		Click					
+		Click on visit		Click					
+		Click on send sms		Click					
+		Enter name		Asvitha					
+		Enter mobile 		8967564745					
+		Select need for		Normal					
+		Click on submit		Click					
+		Enter OTP code		OTP					
+		Click on submit		Click					
+									
+TS_O03_TC_004.5	To check the functionalities of Find Blood module with visit- click to call.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select  blood group, state  and district user should find blood donor  and click to call user should call blood donor.	User is able to call the blood donor.	Pass		
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil							
+		Click on find blood		Click					
+		Click on visit		Click					
+		Click on click to call		Click					
+		Select pick on app		phone					
+		Click on Call		Click					
+									
+TS_O03_TC_004.6	To check the functionalities of Find Blood module with visit-more details.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select  blood group, state  and district user should find blood donor and with more details user should find  blood donors full details.	User view only same details.	Partial failed	I) After clicking more details show only same details in before clicking more details.                                II)  After clicking Report button its moving top of the page.	I) Extra  Functional Defect                            II) Wrong Functional Defect
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil							
+		Click on find blood		Click					
+		Click on visit		Click					
+		Click on more details		Click					
+		Click on report		Click					
+									
+TS_O03_TC_005.1	To check the functionalities of Find Blood module  with whatsapp share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select  blood group, state, district and all tehsil user should find  blood donor and whatsapp share option user should share blood donor on whatsapp	User is able to share blood donor on whatsapp	Pass		
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil		Dharmapuri					
+		Click on find blood		Click					
+		Click on whatsapp share		Click					
+									
+TS_O03_TC_005.2	To check the functionalities of Find Blood module with facebook share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select  blood group, state, district and all tehsil user should find  blood donor and facebook share option user should share blood donor on facebook.	User is able to share blood donor on facebook.	Pass		
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil		Dharmapuri					
+		Click on find blood		Click					
+		Click on facebook share		Click					
+									
+TS_O03_TC_005.3	To check the functionalities of Find Blood module with visit also.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select  blood group, state, district and all tehsil user should find  blood donor and with visit also user should navigate to home page.	User is not able to see any functionality in visit also.	Failed	In visit also didn't have any funcitonalities.Already mentioned in find blood module.	Missing Functional Defect 
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	OB+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil		Dharmapuri					
+		Click on find blood		Click					
+		Click on visit also		Click					
+									
+TS_O03_TC_005.4	To check the functionalities of Find Blood module with visit-send sms.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select  blood group, state, district and all tehsil user should find  blood donor and with send sms option user should send sms in blood donor. 	User is not able to send sms to blood donor.	Failed	I)After clicking on submit button, system asking for OTP for mobile number verify which is not working.                                                                                     II) After clicking OTP submit button "this is wrong otp plese R-enter"message  is received. There is a spelling error in this message it should be "This is wrong OTP please re-enter".      	I)Wrong Functional Defect                   II)Missing Functional Defect     
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil		Dharmapuri					
+		Click on find blood		Click					
+		Click on visit		Click					
+		Click on send sms		Click					
+		Enter name		Asvitha					
+		Enter mobile 		8967564745					
+		Select need for		Normal					
+		Click on submit		Click					
+		Enter OTP code		OTP					
+		Click on submit		Click					
+									
+TS_0O3_TC_005.5	To check the functionalities of Find Blood module with visit- click to call.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select  blood group, state  and district user should find blood donor  and with click to call user should call blood donor.	User is able to call the blood donor.	Pass		
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil		Dharmapuri					
+		Click on find blood		Click					
+		Click on visit		Click					
+		Click on click to call		Click					
+		Select pick on app		phone					
+		Click on Call		Click					
+									
+TS_O03_TC_005.6	To check the functionalities of Find Blood module with visit-more details.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With select  blood group, state  and district user should find blood donor and with more details user should find  blood donors full details.	User view only same details.	Partial failed	I) After clicking more details show only same details in before clicking more details.                                II)  After clicking Report button its moving top of the page.Its already mentioned in 3.4.6.	I) Extra  Functional Defect                            II) Wrong Functional Defect
+		Click on home	2. URL must be working.	Click					
+		Select blood group	3. Find Blood button must be clickable.	B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select all tehsil		Dharmapuri					
+		Click on find blood		Click					
+		Click on visit		Click					
+		Click on more details		Click					
+		Click on report		Click					
+									
+TS_004_TC_001	To check the functionalities of Request Blood module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With empty data user should not send request.	User is not able to send request.	Partial failed	I) Spelling error in patient details,"tehasil" is misspelled it should be "tehsil".                                 II) Spelling error in contact details,"priorty" is misspelled it should be "Priority".	Non Functional Defect
+		Click on request blood	2. URL must be working.	Click					
+		Enter patient name	3.Request Blood button must be clickable.						
+		Enter doctor name							
+		Select blood group							
+		Select state							
+		Select district							
+		Select tehsil							
+		Enter hospital name & address							
+		Enter contact name							
+		Enter mobile no							
+		Enter date when need							
+		Enter priority 							
+		Enter Email							
+		Enter other message							
+		Click on send request		Click					
+		Enter message code		OTP					
+									
+TS_004_TC_002	To check the functionalities of Request Blood module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With valid data user should send request.	User is not able to send request.	Failed	I) After clicking on send request, system asking for OTP for mobile verification which is not working.                                                                                 II) After clicking on submit button "this is wrong otp plese R-enter"message  is received. There is a spelling error in this message it should be "This is wrong OTP please re-enter".	I) Wrong Functional Defect                           II) Non Functional Defect
+		Click on request blood	2. URL must be working.	Click					
+		Enter patient name	3.Request Blood button must be clickable.	Asvitha					
+		Enter doctor name		Dr.Deepak					
+		Select blood group		B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select tehsil		Dharmapuri					
+		Enter hospital name & address		Rajendran hospital					
+		Enter contact name		Asvitha					
+		Enter mobile no		9856743800					
+		Select date when need		20-11-2023					
+		Select priority 		Normal					
+		Enter Email		asvi10@gmail.com					
+		Enter other message		consult doctor					
+		Click on send request		Click					
+		Enter message code		OTP					
+									
+TS_004_TC_003	To check the functionalities of Request Blood module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With invalid data user should not send request.	User is not able to send request.	Pass		
+		Click on request blood	2. URL must be working.	Click					
+		Enter patient name	3.Request Blood button must be clickable.	Avitha24$					
+		Enter doctor name		485###					
+		Select blood group		B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select tehsil		Dharmapuri					
+		Enter hospital name & address		 hospital					
+		Enter contact name		Krishnan					
+		Enter mobile no		98567					
+		Select date when need		20-11-2023					
+		Select priority 		Normal					
+		Enter Email		As_vi@gmail.com					
+		Enter other message		374859568493					
+		Click on send request		Click					
+		Enter message code		OTP					
+									
+TS_004_TC_004	To check the functionalities of Request Blood module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With valid and invalid data user should not send request.	User is able to send request.	Failed	After fill the valid and invalid data system allowing user to send request.	Wrong Functional Defect   
+		Click on request blood	2. URL must be working.	Click					
+		Enter patient name	3.Request Blood button must be clickable.	Asvitha					
+		Enter doctor name		Dr.Deepak4858					
+		Select blood group		B+ve					
+		Select state		Tamilnadu					
+		Select district		Dharmapuri					
+		Select tehsil		Dharmapuri					
+		Enter hospital name & address		RK hospital					
+		Enter contact name		Krishnan					
+		Enter mobile no		9856743800555					
+		Select date when need		20-11-2023					
+		Select priority 		Normal					
+		Enter Email		asvi10@gmail.com					
+		Enter other message		consult doctor					
+		Click on send request		Click					
+		Enter message code		OTP					
+									
+TS_004_TC_005	To check the functionalities of Request Blood module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With mandatory data user should  send request.	User is not able to send request.	Failed	I) After clicking on send request, system asking for OTP for mobile verification which is not working.                                                                                 II) After clicking on submit button "this is wrong otp plese R-enter"message  is received. There is a spelling error in this message it should be "This is wrong OTP please re-enter".	I) Wrong Functional Defect                           II) Non Functional Defect
+		Click on request blood	2. URL must be working.	Click					
+		Enter patient name	3.Request Blood button must be clickable.	Asvitha					
+		Enter doctor name		Dr.Deepak					
+		Select blood group		B+ve					
+		Select state							
+		Select district							
+		Select tehsil							
+		Enter hospital name & address		Rajendran hospital					
+		Enter contact name		Asvi					
+		Enter mobile no		9856743800					
+		Select date when need		20-11-2023					
+		Select priority 		Normal					
+		Enter Email		asvo10@gmail.com					
+		Enter other message							
+		Click on send request		Click					
+		Enter message code		OTP					
+									
+TS_004_TC_006	To check the functionalities of Request Blood module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With optional data user should  not send request.	User is not able to send request.	Pass		
+		Click on request blood	2. URL must be working.	Click					
+		Enter patient name	3.Request Blood button must be clickable.	Krishnaveni					
+		Enter doctor name		Dr.Deepak					
+		Select blood group		B+ve					
+		Select state							
+		Select district							
+		Select tehsil							
+		Enter hospital name & address		Rajendran hospital					
+		Enter contact name							
+		Enter mobile no							
+		Select date when need							
+		Select priority 							
+		Enter Email							
+		Enter other message		consult doctor					
+		Click on send request		Click					
+		Enter message code		OTP					
+									
+TS_004_TC_007	To check the functionalities of Request Blood module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With scroll icon user should scroll top of the page.	User is able to scroll top of the page.	Pass		
+		Click on request blood	2. URL must be working.	Click					
+		Click on scroll icon	3.Request Blood button must be clickable.	Click					
+									
+TS_005_TC_001	To check the functionalities of Blood Bank module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With empty data user should  not  find blood bank.	User is not able to find blood bank.	Pass		
+		Click on blood bank	2. URL must be working.	Click					
+		Select state	3.Blood Bank button must be clickable.						
+		Select district							
+		Click on search		Click					
+									
+TS_005_TC_002.1	To check the functionalities of Blood Bank module with whatsapp share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With only state  user should  find blood bank and With whatsapp share user should share  blood bank on whatsapp.	User is able to find blood bank with state and share blood bank on whatsapp.	Pass		
+		Click on blood bank	2. URL must be working.	Click					
+		Select state	3.Blood Bank button must be clickable.	Tamilnadu					
+		Select district							
+		Click on search		Click					
+		Click on whatsapp share		Click					
+									
+TS_005_TC_002.2	To check the functionalities of Blood Bank module with facebook share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With only state  user should  find blood bank and With facebook share user should share  blood bank on facebook .	User is able to find blood bank with state and share blood bank on facebook.	Pass		
+		Click on blood bank	2. URL must be working.	Click					
+		Select state	3.Blood Bank button must be clickable.	Tamilnadu					
+		Select district							
+		Click on search		Click					
+		Click on facebook share		Click					
+									
+TS_005_TC_002.3	To check the functionalities of Blood Bank module with read more.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With only state  user should  find blood bank and With read more user should view blood bank full detail. 	User is able to view full details in blood bank.	Pass		
+		Click on blood bank	2. URL must be working.	Click					
+		Select state	3.Blood Bank button must be clickable.	Tamilnadu					
+		Select district							
+		Click on search		Click					
+		Click on read more		Click					
+									
+TS_005_TC_003.1	To check the functionalities of Blood Bank module with whatsapp share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With state and district user should  find blood bank and With whatsapp share user should share  blood bank on whatsapp.	User is able to find blood bank with state and share blood bank on whatsapp.	Pass		
+		Click on blood bank	2. URL must be working.	Click					
+		Select state	3.Blood Bank button must be clickable.	Tamilnadu					
+		Select district		Dharmapuri					
+		Click on search		Click					
+		Click on whatsapp share		Click					
+									
+TS_005_TC_003.2	To check the functionalities of Blood Bank module with facebook share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With state and district user should  find blood bank and With facebook share user should share  blood bank on facebook .	User is able to find blood bank with state and share blood bank on facebook.	Pass		
+		Click on blood bank	2. URL must be working.	Click					
+		Select state	3.Blood Bank button must be clickable.	Tamilnadu					
+		Select district		Dharmapuri					
+		Click on search		Click					
+		Click on facebook share		Click					
+									
+TS_005_TC_003.3	To check the functionalities of Blood Bank module with read more.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With state and district user should  find blood bank and With read more user should view blood bank full detail.  	User is able to view full details in blood bank.	Pass		
+		Click on blood bank	2. URL must be working.	Click					
+		Select state	3.Blood Bank button must be clickable.	Tamilnadu					
+		Select district							
+		Click on search		Click					
+		Click on read more		Click					
+									
+TS_005_TC_004	To check the functionalities of Blood Bank module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With scroll icon user should scroll top of the page.	User is able to scroll top of the page.	Pass		
+		Click on blood bank	2. URL must be working.	Click					
+		Click on scroll icon	3.Blood Bank button must be clickable.	Click					
+									
+TS_006_TC_001	To check the functionalities of Blogs module with reetack.		1. Internet must be working.	https://bloodbanktoday.com/	With reetack option user should navigate to home page.	User is able to navigate to home page.	Pass		
+			2. URL must be working.	Click					
+			3. Blogs button must be clickable.	Click					
+									
+TS_006_TC_002	To check the functionalities of Blogs module with visit.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With visit option user should navigate to home page.	User is able to navigate to home page.	Pass		
+		Click on blogs	2. URL must be working.	Click					
+		Click on visit	3. Blogs button must be clickable.	Click					
+									
+TS_006_TC_003	To check the functionalities of Blogs module with web solutions company.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With web solutions company user should move top of the page.	User is able to move top of the page.	Pass		
+		Click on blogs	2. URL must be working.	Click					
+		Click on  web solutions company	3. Blogs button must be clickable.	Click					
+									
+TS_006_TC_004	To check the functionalities of Blogs module with share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With share user should share website.	User is not able to share website.	Failed	After clicking share icon its move on top of the page.	Wrong functional defect.
+		Click on blogs	2. URL must be working.	Click					
+		Click on share	3. Blogs button must be clickable.	Click					
+									
+TS_006_TC_005	 To check the functionalities of blogs module  with by blood bank today .	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With by blood bank today user should move blood bank today  profile.	User is able to view blood bank today profile.	Pass		
+		Click on blogs	2. URL must be working.	Click					
+		Click on by blood bank today	3. Blogs button must be clickable.	Click					
+									
+TS_006_TC_006	 To check the functionalities of blogs module  with facebook share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With facebook share user should share  blood bank today on facebook.	User is able to share blood bank today on facebook.	Pass		
+		Click on blogs	2. URL must be working.	Click					
+		Click on facebook share	3. Blogs button must be clickable.	Click					
+									
+TS_006_TC_007	 To check the functionalities of blogs module  with whatsapp share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With whatsapp share user should share  blood bank today on whatsapp.	User is able to share blood bank today on whatsapp.	Pass		
+		Click on blogs	2. URL must be working.	Click					
+		Click on whatsapp share	3. Blogs button must be clickable.	Click					
+									
+TS_006_TC_008	 To check the functionalities of blogs module  with read more.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With read more option user should move blood bank today  profile.	User is able to view full details in blood bank today.	Failed	I) By blood bank today heading and read more option works like same way.                                          II) Visit also option didn’t have any functionalities. Its already mentioned in find blood module.	I) Extra Functional Defect                II) Missing Functional Defect
+		Click on blogs	2. URL must be working.	Click					
+		Click on read more	3. Blogs button must be clickable.	Click					
+									
+TS_006_TC_009	To check the functionalities of Blogs module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With scroll icon user should scroll top of the page.	User is able to scroll top of the page.	Pass		
+		Click on blogs	2. URL must be working.	Click					
+		Click on scroll icon	3. Blogs button must be clickable.	Click					
+									
+TS_007_TC_001	 To check the functionalities of causes module  with eradicate blood shortage.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With eradicate blood shortage user should view full details in eradicate blood shortage.	User is not able to view full details in eradicate blood shortage.	Failed	After clicking eradicate blood shortage its not moving. 	Wrong Functional Defect
+		Click on causes	2. URL must be working.	Click					
+		Click on eradicate blood shortage	3.Causes button must be clickable.	Click					
+									
+TS_007_TC_002	To check the functionalities of causes module  with facebook share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With facebook share user should share eradicate blood shortage on facebook.	User is not able to share eradicate blood  shortage on facebook.	Failed	Sometimes facebook share option is not showing.Its showing some error icon. It is failed to load resource	Non Functional Defect
+		Click on causes	2. URL must be working.	Click					
+		Click on facebook share	3.Causes button must be clickable.	Click					
+									
+TS_007_TC_003	To check the functionalities of causes module  with whatsapp share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With whatsapp share user should share eradicate blood shortage on whatsapp.	User is able to share eradicate blood shortage on whatsapp.	Pass		
+		Click on causes	2. URL must be working.	Click					
+		Click on whatsapp share	3.Causes button must be clickable.	Click					
+									
+TS_007_TC_004	To check the functionalities of causes module  with donate now.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With donate now option user should navigate to donate us module.	User is able to navigate to donate us module.	Pass		
+		Click on causes	2. URL must be working.	Click					
+		Click on donate now	3.Causes button must be clickable.	Click					
+									
+TS_007_TC_005	 To check the functionalities of causes module  with more detail.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With more detail option user should view eradicate blood shortage full detail.	User is able to view eradicate blood shortage full detail.	Pass		
+		Click on causes	2. URL must be working.	Click					
+		Click on more detail	3.Causes button must be clickable.	Click					
+									
+TS_007_TC_006	To check the functionalities of causes module  with visit also.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	User is not able to see visit also functionalities.	User is not able to see visit also functionalities.	Failed	In visit also option didn’t have any functionalities. Its already mentioned in find blood module.	Missing Functional Defect
+		Click on causes	2. URL must be working.	Click					
+		Click on visit also	3.Causes button must be clickable.	Click					
+									
+TS_007_TC_007	To check the functionalities of causes module.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With scroll icon user should scroll top of the page.	User is able to scroll top of the page.	Pass		
+		Click on causes	2. URL must be working.	Click					
+		Click on scroll icon	3.Causes button must be clickable.	Click					
+									
+TS_008_TC_001.1	To check the functionalities of Events module with read more.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With read more user should view full details in blood donate by Jasvinder Singh Hanumangarh Town. 	User is able to view full details in blood donate by jasvinder singh	Pass		
+		Click on events	2. URL must be working.	Click					
+		Click on read more. 	3. Events button must be clickable.	Click					
+									
+TS_008_TC_001.2	To check the functionalities of Events module with read more-share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With share user should share blood donate by Jasvinder Singh Hanumangarh Town.	User is not able to share blood donate by jasvinder singh hanumangarh town.	Failed	After clicking share icon its move on top of the page.	Wrong Functional Defect
+		Click on events	2. URL must be working.	Click					
+		Click on read more. 	3. Events button must be clickable.	Click					
+		Click on share.		Click					
+									
+TS_008_TC_002	To check the functionalities of events module  with whatsapp share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With whatsapp share user should share blood donate by Jasvinder Singh Hanumangarh Town on whatsapp.	User is able to share blood blood donate by Jasvinder Singh Hanumangarh Town on whatsapp.	Pass		
+		Click on events	2. URL must be working.	Click					
+		Click on whatsapp share . 	3. Events button must be clickable.	Click					
+									
+TS_008_TC_003	To check the functionalities of events module  with facebook share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With facebook share user should share blood donate by Jasvinder Singh Hanumangarh Town on facebook.	User is able to share blood blood donate by Jasvinder Singh Hanumangarh Town on  facebook.	Pass		
+		Click on events	2. URL must be working.	Click					
+		Click on whatsapp share . 	3. Events button must be clickable.	Click					
+									
+TS_008_TC_004	To check the functionalities of events module  with visit also.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With visit also user should navigate to home page.	User is not able to see visit also functionalities.	Failed	In visit also option didn’t have any functionalities.Its already mentioned in causes.	Missing Functional Defect
+		Click on events	2. URL must be working.	Click					
+		Click on visit also. 	3. Events button must be clickable.	Click					
+									
+TS_008_TC_005	 To check the functionalities of events module with blood donate by jasvinder singh hanumangarh town.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With blood donet by Jasvinder Singh Hanumangarh Town user should view full details in blood donet by Jasvinder Singh Hanumangarh Town. 	User is able to view full details in particular one person detail.	Pass		
+		Click on events	2. URL must be working.	Click					
+		Click on blood donate by jasvinder singh hanumangarh town.	3. Events button must be clickable.	Click					
+									
+TS_008_TC_006	 To check the functionalities of events module with scroll icon.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With scroll icon user should scroll top of the page.	User is able to scroll top of the page.	Pass		
+		Click on events	2. URL must be working.	Click					
+		Click on scroll icon	3. Events button must be clickable.	Click					
+									
+TS_009_TC_001.1	To check the functionalities of news module  with blood bank today- by lakhvinder singh.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With by lakhvinder singh user should view Lakhvinder Singh's profile.	User is able to view the particular profile.	Pass		
+		Click on news	2. URL must be working.	Click					
+		Click on by lakhvinder singh	3. News button must be clickable.	Click					
+									
+TS_009_TC_001.2	To check the functionalities of news module  with blood bank today- find blood.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With find blood user should navigate to find blood .	User is able to navigate the find blood module.	Pass		
+		Click on news	2. URL must be working.	Click					
+		Click on find blood	3. News button must be clickable.	Click					
+									
+TS_009_TC_001.3	To check the functionalities of news module  with blood bank today- register.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With register user should navigate to register.	User is able to navigate the register module.	Pass		
+		Click on news	2. URL must be working.	Click					
+		Click on register	3. News button must be clickable.	Click					
+									
+TS_009_TC_001.4	To check the functionalities of news module  with blood bank today- blood banks.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With blood banks user should navigate to blood bank.	User is able to navigate the blood bank module.	Pass		
+		Click on news	2. URL must be working.	Click					
+		Click on blood banks	3. News button must be clickable.	Click					
+									
+TS_009_TC_002	 To check the functionalities of news module with facebook share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With facebook share user should share Lakhvinder Singh profile on facebook.	User is able to share Lakhvinder singh profile on facebook.	Pass		
+		Click on news	2. URL must be working.	Click					
+		Click on facebook share	3. News button must be clickable.	Click					
+									
+TS_009_TC_003	To check the functionalities of news module  with whatsapp share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With whatsapp share user should share Lakhvinder Singh  profile on whatsapp.	User is able to share Lakhvinder singh profile on whatsapp.	Pass		
+		Click on news	2. URL must be working.	Click					
+		Click on whatsapp share	3. News button must be clickable.	Click					
+									
+TS_009_TC_004	To check the functionalities of news module  with visit also.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With visit also user should navigate to home page.	User is not able to see any functionality in visit also module.	Pass		
+		Click on news	2. URL must be working.	Click					
+		Click on visit also	3. News button must be clickable.	Click					
+									
+TS_009_TC_005.1	 To check the functionalities of news module  with read more.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With read more user should view full details in blood bank today.	User is able to view full details of  blood bank today.	Partial failed	"In blood bank today same functionalities are assign in twice a time. 
+"	" Extra Functional Defect
+"
+		Click on news	2. URL must be working.	Click					
+		Click on read more 	3. News button must be clickable.	Click					
+									
+TS_009_TC_005.2	 To check the functionalities of news module  with read more-blood bank today.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With blood bank today user should click on blood bank today.	User is able to click on  blood bank today.	Partial failed	  Again click on blood bank today its move on top of the page.	Wrong Functional Defect
+		Click on news	2. URL must be working.	Click					
+		Click on  read more 	3. News button must be clickable.	Click					
+		Click on blood bank today		Click					
+									
+TS_009_TC_005.3	 To check the functionalities of news module  with read more-share icon.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With share icon user should share  blood bank today- by lakhvinder singh.	User is  not able to share blood bank today- lakhvinder singh.	Failed	After clicking share icon its move on top of the page.	Wrong Functional Defect
+		Click on news	2. URL must be working.	Click					
+		Click on  read more 	3. News button must be clickable.	Click					
+		Click on share icon		Click					
+									
+TS_009_TC_006	 To check the functionalities of news module  with scroll icon.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With scroll icon user should scroll top of the page.	User is able to scroll top of the page.	Pass		
+		Click on news	2. URL must be working.	Click					
+		Click on  scroll icon	3. News button must be clickable.	Click					
+									
+TS_0010_TC_001	To check the functionalities of donate us module with QR code.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With QR code user should scan QR code and send money to blood bank today.	User is able to send money to blood bank today.	Pass		
+		Click on donate us	2. URL must be working.	Click					
+		Scan QR code	3. Donate Us button must be clickable.	scan					
+			4. User must be registered user.						
+									
+TS_0010_TC_002	 To check the functionalities of donate us module with donate us with paytm-upi mobile number.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With UPI mobile number user should transfer money to blood bank today.	User is able to transfer money to blood bank today.	Pass		
+		Click on donate us	2. URL must be working.	Click					
+		Use UPI mobile number with paytm	3. Donate Us button must be clickable.	9785433110					
+			4. User must be registered user.						
+									
+TS_0010_TC_003	 To check the functionalities of donate us module with select denomination or entering manual amount.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With valid data user should donate amount.	User is able to donate amount.	Pass		
+		Click on donate us	2. URL must be working.	Click					
+		Select denomination	3. Donate Us button must be clickable.	100					
+		 OR 	4. User must be registered user.						
+		Enter manual amount		1000					
+		Enter full name		Asvitha					
+		Enter email		asvi10@gmail.com					
+		Enter mobile no.		7565849343					
+		Enter country		India					
+		Enter state		Tamilnadu					
+		Enter city		Dharmapuri					
+		Enter pin/zip code		40623					
+		Enter address		Dharmapuri					
+		Select name in list		Display name in list					
+		Click on donate now		Click					
+		Select on payment option		Paytm					
+		Click on proceed		Click					
+									
+TS_0010_TC_004	 To check the functionalities of donate us module with select denomination or entering manual amount.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With invalid data user should not donate amount.	User is not able to donate amount.	Pass		
+		Click on donate us	2. URL must be working.	Click					
+		Select denomination	3. Donate Us button must be clickable.	100					
+		 OR 	4. User must be registered user.						
+		Enter manual amount		high					
+		Enter full name		Asvitha5678					
+		Enter email		as_vi@gmail.com					
+		Enter mobile no.		756584					
+		Enter country		French					
+		Enter state		Tamilnadu					
+		Enter city		Dharmapuri					
+		Enter pin/zip code		40623					
+		Enter address		Dharmapuri					
+		Select name in list		Display name in list					
+		Click on donate now		Click					
+		Select on payment option		Paytm					
+		Click on proceed		Click					
+									
+TS_0010_TC_005	 To check the functionalities of donate us module with select denomination or entering manual amount.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With valid and invalid user should not donate amount.	User is able to donate amount.	Failed	After fill the valid and invalid data system allowing to donate amount.	Wrong Functional Defect
+		Click on donate us	2. URL must be working.	Click					
+		Select denomination	3. Donate Us button must be clickable.	100					
+		 OR 	4. User must be registered user.						
+		Enter manual amount		high					
+		Enter full name		Asvitha4758					
+		Enter email		asvi10@gmail.com					
+		Enter mobile no.		7565849					
+		Enter country		Baratham					
+		Enter state		Tamilnadu					
+		Enter city		Dharmapuri					
+		Enter pin/zip code		40623					
+		Enter address		Dharmapuri					
+		Select name in list		Display name in list					
+		Click on donate now		Click					
+		Select on payment option		Paytm					
+		Click on proceed		Click					
+									
+TS_0010_TC_006	 To check the functionalities of donate us module with select denomination or entering manual amount.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With mandatory data user should be donate amount.	User is not able to donate amount.	Failed	After fill the mandatory data system not allowing to donate amount.	Wrong Functional Defect
+		Click on donate us	2. URL must be working.	Click					
+		Select denomination	3. Donate Us button must be clickable.	100					
+		 OR 	4. User must be registered user.						
+		Enter manual amount							
+		Enter full name		Asvitha					
+		Enter email							
+		Enter mobile no.		7565849465					
+		Enter country							
+		Enter state							
+		Enter city							
+		Enter pin/zip code							
+		Enter address							
+		Select name in list							
+		Click on donate now		Click					
+		Select on payment option							
+		Click on proceed							
+									
+TS_0010_TC_007	 To check the functionalities of donate us module with select denomination or entering manual amount.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With optional data user should not donate amount.	User is not able to donate amount.	Pass		
+		Click on donate us	2. URL must be working.	Click					
+		Select denomination	3. Donate Us button must be clickable.	100					
+		 OR 	4. User must be registered user.						
+		Enter manual amount		1000					
+		Enter full name							
+		Enter email		asvi10@gmail.com					
+		Enter mobile no.							
+		Enter country		India					
+		Enter state		Tamilnadu					
+		Enter city		Dharmapuri					
+		Enter pin/zip code		40623					
+		Enter address		Dharmapuri					
+		Select name in list		Display name in list					
+		Click on donate now		Click					
+		Select on payment option		Paytm					
+		Click on proceed		Click					
+									
+TS_0010_TC_008	 To check the functionalities of donate us module with select denomination or entering manual amount.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With empty data user should not donate amount.	User is not able to donate amount.	Pass		
+		Click on donate us	2. URL must be working.	Click					
+		Select denomination	3. Donate Us button must be clickable.						
+		 OR 	4. User must be registered user.						
+		Enter manual amount							
+		Enter full name							
+		Enter email							
+		Enter mobile no.							
+		Enter country							
+		Enter state							
+		Enter city							
+		Enter pin/zip code							
+		Enter address							
+		Select name in list							
+		Click on donate now		Click					
+		Select on payment option							
+		Click on proceed							
+									
+TS_0010_TC_009	 To check the functionalities of donate us module with recent donar join.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With recent donor join user should navigate to donor detail.	User is able to navigate to donor detail.	Pass		
+		Click on donate us	2. URL must be working.	Click					
+		Click on recent donor join name	3. Donate Us button must be clickable.	Click					
+			4. User must be registered user.						
+									
+TS_0010_TC_010	To check the functionalities of donate us module with scroll icon.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With scroll icon user should scroll top of the page.	User is able to scroll top of the page.	Pass		
+		Click on donate us	2. URL must be working.	Click					
+		Click scroll icon	3. Donate Us button must be clickable.	Click					
+			4. User must be registered user.						
+									
+TS_0011_TC_001	 To check the functionalities of my message module with send message.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With send message user should send message.	User is able to send message.	Partial failed	"I) After selecting the file user is not able to click back icon. Back icon  is not working.
+II) System allowing only one file at the time.
+III) Spelling error in""Msessage for"" it should be ""Message for"".
+IV) Spelling error in""Headding""  it should be""Heading"".
+V) Spelling error in ""Msssage"" it should be""Message""."	"I) Missing Functional Defect
+II) Non  Functional Defect"
+		Click on send message	2. URL must be working.	Click					
+		Select message for	3.  User must be registered user.	Other 					
+		Select priorty type	4. User must be login.	Normal					
+		Enter headding	5. My Message button must be clickable.	Just want some suggestions					
+		Enter msssage		what type of blood					
+		Click on choose file		Click					
+		Select file		Select					
+		Click  on send		Click					
+									
+TS_0011_TC_002	 To check the functionalities of my message module with search.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With search option user should search message.	User is not able to search message.	Failed	"I) After clicking search button system didn’t search message. It refresh the page.
+II) Spelling error in ""Replay type"" it should be ""Reply type"".
+III) Spelling error in replay type dropdown ""panding"" it should be ""Pending"".
+IV) Spelling error in ""Priorty type"" it should be ""Priority type""."	"I) Wrong Functional Defect
+II) Non Functional Defect"
+		Click on send message	2. URL must be working.	Click					
+		Search message for	3.  User must be registered user.	Other 					
+		Select reply type	4. User must be login.	Done					
+		Select priorty type	5. My Message button must be clickable.	Normal					
+		Enter search box		Just want some suggestions					
+		Click on search		Click					
+									
+TS_0011_TC_003	 To check the functionalities of my message module with my message list.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With search icon user should view send message's action.	User is able to search the action of send message.	Partial failed	After clicking search icon spelling error in popup message.Spelling error in "No replay yet" it should be "No replay yet".	Non Functional Defect
+		Click on send message	2. URL must be working.	Click					
+		Click on action -search icon	3.  User must be registered user.	Click					
+		Click on ok	4. User must be login.	Click					
+		Click on action -search icon	5. My Message button must be clickable.						
+									
+TS_0012_TC_001	To check the functionalities of edit profile module with add blood donation report.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With add blood donation report user should navigate to my donation report.	User is able to navigate the my donation report.			
+		Click on edit profile	2. URL must be working.	Click					
+		Click on add blood donation report	3.  User must be registered user.	Click					
+			4. User must be login.						
+			5. Edit Profile must be clickable.						
+									
+TS_0012_TC_002	To check the functionalities of edit profile module with setting tag.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With settings icon user should change the setting as per the settings icon.	User is able to click settings icon. Some setting options are not correctly working.	Partial failed	"I) After clicking the fixed navbar page is refreshed but system didn’t have any change.
+II)After clicking the fixed main menu page is refreshed but system didn’t have any change."	Wrong Functional Defect
+		Click on edit profile	2. URL must be working.	Click					
+		Click on settings icon	3.  User must be registered user.	Click					
+		Click on fixed navbar cross button	4. User must be login.	Click					
+		Click on fixed main menu cross button	5. Edit Profile must be clickable.	Click					
+		Click on right-left direction cross button		Click					
+		Clink on main menu on the right cross button		Click					
+		Click on hide main menu cross button		Click					
+		Select  themes		Select					
+									
+TS_0012_TC_003	To check the functionalities of edit profile module with copy link.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With copy link user should copied the link.	User is able to copy the link.	Pass		
+		Click on edit profile	2. URL must be working.	Click					
+		Click on copy link	3.  User must be registered user.	Click					
+			4. User must be login.						
+			5. Edit Profile must be clickable.						
+									
+TS_0012_TC_004	 To check the functionalities of edit profile module with facebook share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With facebook share user should able to share link on  facebook.	User is able to share link on facebook.	Pass 		
+		Click on edit profile	2. URL must be working.	Click					
+		Click on facebook share	3.  User must be registered user.	Click					
+			4. User must be login.						
+			5. Edit Profile must be clickable.						
+									
+TS_0012_TC_005	 To check the functionalities of edit profile module with whatsapp share.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With whatsapp share user should able to share link on  whatsapp.	User is able to share link on whatsapp.	Partial failed	Whatsapp icon is not correctly mentioned.	Non Functional Defect
+		Click on edit profile	2. URL must be working.	Click					
+		Click on whatsapp share	3.  User must be registered user.	Click					
+			4. User must be login.						
+			5. Edit Profile must be clickable.						
+									
+TS_0012_TC_006	 To check the functionalities of edit profile module with account and basic information.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With edit basic information user should able to edit the profile.	User is able to update the profile.Image is not updated.	Partial failed	"I) After clicking on save button system gave popup message. Spelling error in popupmessage ""Data successfol update"" it should be""Data successfully updated"".
+II)After choosing the file image is not updated."	"I) Non Functional Defect
+II) Wrong  Functional Defect"
+		Click on edit profile	2. URL must be working.	Click					
+		Click on edit 	3.  User must be registered user.	Click					
+		Enter profile ID	4. User must be login.	2309111221507410					
+		Enter name	5. Edit Profile must be clickable.	Asvitha					
+		Select gender		Female					
+		Select show mobile		Yes					
+		Select SMS alert		Yes					
+		Select donate type		Regular					
+		Enter weight kg		45					
+		Select blood group		B+ve					
+		Select D.O.B		22-11-2000					
+		About myself		Thanks					
+		Click on save		Click					
+		Click on ok		Click					
+		Click on image		Click					
+		Click on choose file		Click					
+		Select file		Select					
+		Click on open		Click					
+		Click on save		Click					
+		Click on ok		Click					
+		Click on copy link		Click					
+		Click on ok		Click					
+									
+TS_0012_TC_007	To check the functionalities of edit profile module with address information.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With address information user should able to edit the address.	User is able to update the address.	Partial failed	"I) Spelling error in ""Tehasil"" it should be""Tehsil"".
+II) Spelling error in ""oqupation"" it should be ""occupation"".
+III)Spelling error in popup message""""Data successfol update"" it should be""Data successfully updated""."	Non Functional Defect
+		Click on edit profile	2. URL must be working.	Click					
+		Click on edit 	3.  User must be registered user.	Click					
+		Select  state	4. User must be login.	Tamilnadu					
+		Select city	5. Edit Profile must be clickable.	Dharmapuri					
+		Select tehasil		Dharmapuri					
+		Enter nearby		RK hospital					
+		Enter pincode		40623					
+		Enter address		Dharmapuri					
+		Select oqupation		Education					
+		Enter detail		Study					
+		Click on ok		Click					
+									
+TS_0012_TC_008.1	 To check the functionalities of edit profile module with contact information- Edit.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With contact information user should able to edit the mobile number.	User is not able to update the mobile number.	Failed	"I) After clicking edit option system gave popup message.Spelling error in popup message""If change we sent OTP on your mobile phone for verify"" it should be""If change the phone number we sent OTP on your mobile phone for verification"".
+II) User is not able to get OTP."" If not get message click resend"" button is not clickable.
+III) After clicking submit button system gave popup message.Spelling error in popup message""This is wrong OTP please R-Enter"" it should be ""This is wrong OTP please re-enter""."	"I)Wrong Functional Defect
+II)Non Functional Defect"
+		Click on edit profile	2. URL must be working.	Click					
+		Click on edit 	3.  User must be registered user.	Click					
+		Enter mobile no.	4. User must be login.	6368903834					
+		Click on save	5. Edit Profile must be clickable.	Click					
+		Enter OTP		OTP					
+		Click on submit		Click					
+									
+TS_0012_TC_008.2	 To check the functionalities of edit profile module with contact information- Email ID.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With email id option user should able to verify email id.	User is not able to verify email id.	Failed	"I) After clicking ""send verify email verify"" its not properly working.
+II) Spelling error in ""You dont have this email verify please verify it bcz ve sent important information on Email Id"" it should be""You don't have this email verify please verify it because we sent important information on Email ID""."	"I)Wrong Functional Defect
+II)Non Functional Defect"
+		Click on edit profile	2. URL must be working.	Click					
+		Click on Email ID	3.  User must be registered user.	Click					
+		Click on send email verify link	4. User must be login.	Click					
+		click on submit	5. Edit Profile must be clickable.	Click					
+									
+TS_0012_TC_009	To check the functionalities of edit profile module with change password.	Enter URL	1. Internet must be working.	https://bloodbanktoday.com/	With change password user should able to change new password.	User is able to change new password.	Partial failed	"After clicking save button system gave popup message.Spelling error in popup message""Data successfol update"" it should be ""Data successfully updated"".
+"	Non Functional Defect
+		Click on edit profile	2. URL must be working.	Click					
+		Click on edit 	3.  User must be registered user.	Click					
+		Enter old password	4. User must be login.	Asvi10					
+		Enter new password	5. Edit Profile must be clickable.	krishnan					
+		Enter re-enter password		krishnan					
+		Click on save		Click					
